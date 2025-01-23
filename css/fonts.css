@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Poppins';
+  src: url('Poppins-Light.ttf');
+  src: local('Poppins-Light'), local('Poppins-Light'),
+    url('../fonts/Poppins-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('Poppins-Medium.ttf');
+  src: local('Poppins-Medium'), local('Poppins-Medium'),
+    url('../fonts/Poppins-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('Poppins-Regular.ttf');
+  src: local('Poppins-Regular'), local('Poppins-Regular'),
+    url('../fonts/Poppins-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  src: url('Merriweather-Regular.ttf');
+  src: local('Merriweather-Regular'), local('Merriweather-Regular'),
+    url('../fonts/Merriweather-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
